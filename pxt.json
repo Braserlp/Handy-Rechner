@@ -1,5 +1,5 @@
 {
-    "name": "Rechner",
+    "name": "Handy-Rechner",
     "description": "",
     "dependencies": {
         "core": "*",
