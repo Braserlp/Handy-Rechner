@@ -78,6 +78,9 @@ input.onButtonPressed(Button.AB, function () {
         }
     }
 })
+radio.onReceivedString(function (receivedString) {
+	
+})
 input.onButtonPressed(Button.B, function () {
     if (Rechner == 1) {
         if (RechnerAuswahl1Aktive == 1) {
